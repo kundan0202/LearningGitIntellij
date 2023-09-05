@@ -2,5 +2,8 @@ public class Dev2Class {
     public static void main(String[] args) {
         System.out.println("dev2 file");
         System.out.println("check logs");
+
+        //added new comment
+        System.out.println("new code for api");
     }
 }
